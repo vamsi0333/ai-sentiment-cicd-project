@@ -38,23 +38,3 @@ kubectl apply -f helm-chart/deployment.yaml
 kubectl apply -f helm-chart/service.yaml
 
 ---
-
-# ✅ Why This README is Good:
-- Professional layout
-- Shows Project Overview, Structure, Technologies, How to Run, Deployment, Automation, Future Scope
-- Impresses recruiters with clarity and ambition
-
----
-
-# 🎯 Your Next Steps:
-- Upload the project to GitHub
-- Paste this `README.md` cleanly at the root
-- Add repository description and tags
-- (Optional) Announce the project on LinkedIn
-
----
-
-Would you like me to **also prepare a LinkedIn post template for this AI project** to attract recruiters? 🚀  
-If yes, just say: **"Yes, give LinkedIn post for AI project!"** 🎯
-
-(Only takes 2 minutes to post, but gives you BIG attention!) ✅
